@@ -1,0 +1,10 @@
+.backgroundImage {
+    background-image: url(../images/thomasAndFriends.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+}
+.theText {
+    color: white;
+    text-align: center;
+}
